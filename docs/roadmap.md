@@ -1,10 +1,10 @@
 # Roadmap
 
 ## Phase 0: Setup
-- [ ] Repo scaffold, Docker Compose with Postgres, Makefile, `.env.example`, ruff/pytest config.
+- [ ] Repo scaffold, Docker Compose with Postgres, Makefile, `.env.example`, pytest config.
 
 ## Phase 1: Parse
-- [ ] Port the prototype parser into `parser/parse_grades.py`.
+- [ ] Write `parser/parse_grades.py` from the quirks table in `parser/CLAUDE.md`. The earlier prototype is not in this repo; its numbers in `docs/data-source.md` are targets to check against.
 - [ ] Fix the 77 percentage-sum rows in 1262 (likely wrapped/misaligned lines).
 - [ ] Fixtures + tests for every quirk in `parser/CLAUDE.md`.
 - [ ] Run across all terms in parallel. Benchmark pdfplumber vs. PyMuPDF and record total runtime.

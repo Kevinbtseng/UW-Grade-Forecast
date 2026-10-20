@@ -25,7 +25,7 @@ PDF archive ─► parse (pdfplumber) ─► Parquet per term ─► COPY ─►
 | ML targets, features, splits, metrics | `ml/CLAUDE.md` |
 | API endpoints and rules | `api/CLAUDE.md` |
 | Frontend pages and rules | `frontend/CLAUDE.md` |
-| Data source, coverage, legal notes, prototype results | `docs/data-source.md` |
+| Data source, coverage, legal notes, reference results | `docs/data-source.md` |
 | Stack rationale, repo layout, CI | `docs/architecture.md` |
 | Roadmap, resume metrics, open questions | `docs/roadmap.md` |
 
@@ -59,7 +59,7 @@ make test      # pytest + dbt test + frontend lint/typecheck
 - **Types:** `term` is int, `section` is text (leading zeros, e.g. `001`), percentages are numeric 0–100, shares are 0–1.
 - **No leakage:** a feature for term T may only use data from terms < T.
 - **Data-quality tests:** when a test fails, fix the parser or model. Don't loosen the test.
-- **Python:** type hints on public functions, `ruff` formatting, no bare `except`. Use `logging` (not `print`) except in a script's final summary.
+- **Python:** type hints on public functions, no bare `except`. Use `logging` (not `print`) except in a script's final summary.
 - **SQL (dbt):** lowercase keywords, CTEs over subqueries, one model per file. Prefix models `stg_`, `int_`, `fct_`, `dim_`.
 - **Commits:** `type(scope): description`, imperative mood (`feat(parser): handle wrapped course names`).- **Secrets:** DB credentials in `.env` (gitignored). Keep `.env.example` current.
 

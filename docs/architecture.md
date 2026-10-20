@@ -15,7 +15,7 @@
 | Frontend | React + TypeScript + Vite, TanStack Query, Recharts | Search page plus course page |
 | Infra | Docker Compose, Makefile | One command to run everything locally |
 | CI | GitHub Actions | pytest, dbt build, smoke-train, frontend lint/build |
-| Quality | pytest, ruff, mypy (light), ESLint | |
+| Quality | pytest, mypy (light), ESLint | |
 
 ## Deliberately excluded
 
@@ -50,7 +50,7 @@
 ## CI (GitHub Actions)
 
 `ci.yml` (push and PR):
-1. `ruff` + `pytest` for parser/loader/ml/api. Parser tests run on small PDF-page fixtures with hand-checked expected rows.
+1. `pytest` for parser/loader/ml/api. Parser tests run on small PDF-page fixtures with hand-checked expected rows.
 2. Spin up a Postgres service container, load a small fixture dataset, then run `dbt build`.
 3. Smoke-train on the fixture data, asserting that the pipeline runs and `metrics.json` is produced. Metric values aren't asserted.
 4. Frontend: `npm ci`, `tsc --noEmit`, ESLint, `vite build`.

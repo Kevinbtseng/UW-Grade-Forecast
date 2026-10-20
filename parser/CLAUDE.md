@@ -40,4 +40,4 @@ Each page has a header (term, college, department name, subject code + abbreviat
 - **Percentage-sum failures:** about 1.6–1.9% of graded sections don't sum to 100 ± 1 (77 in `1262`, 79 in `1214`). This is likely a column misread on wrapped lines. Fix it in the parser; the dbt test stays strict.
 - **Reconciliation gap:** `1214` captures 99.6% of the report's grand total (about 650 grades missing). Target is ≥99.9% on every term.
 
-See `docs/data-source.md` for prototype numbers.
+The parser is not written yet. See `docs/data-source.md` for reference numbers from an earlier prototype to check it against.

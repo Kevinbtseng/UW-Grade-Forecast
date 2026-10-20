@@ -16,9 +16,9 @@
 - Law School non-standard grades are excluded from the reports.
 - Credit Madgrades and the UW Registrar in the README.
 
-## Prototype results (snapshot, Oct 2026)
+## Reference results from an earlier prototype (snapshot, Oct 2026)
 
-These numbers come from the prototype parser. They will go stale as the parser improves; update or remove them when they do.
+These numbers come from an earlier prototype parser that is not in this repo. Use them as targets when checking the new parser, then replace them with real numbers from it.
 
 ### Fall 2025-2026 (`1262`)
 - 481 pages → **10,445 section rows**, 175 subjects, **214,067 grades**. Took about 2 min with pdfplumber (single process).
