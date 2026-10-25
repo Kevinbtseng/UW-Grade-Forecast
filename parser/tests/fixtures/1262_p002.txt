@@ -1,0 +1,35 @@
+TERM :1262 Percentage Distribution of Grades Office of the Registrar
+Fall 2025-2026 University of Wisconsin - Madison
+(Non-Cross Listed)
+ALS
+AGRICULTURAL AND APPLIED ESection # Ave A AB B BC C D F S U CR N P I NW NR Other
+108 A A E Grades GPA
+990 079 1 *** . . . . . . .
+990 082 4 *** . . . . . . .
+990 086 1 *** . . . . . . .
+990 089 2 *** . . . . . . .
+990 093 7 . . . . . . . 100.0 . . . . . . . .
+990 095 2 *** . . . . . . .
+990 097 1 *** . . . . . . .
+990 098 4 *** . . . . . . .
+990 105 4 *** . . . . . . .
+Research and Thesis Course Total 33 . . . . . . . 84.8 . . . 15.2 . . . .
+999 083 1 *** . . . . . . .
+999 107 1 *** . . . . . . .
+Spec Work-Ag & Appl Economics Course Total 2 ***
+108 A A E Dept. Total 699 3.518 56.2 17.2 10.0 4.1 3.6 1.0 1.1 5.0 . . . 0.7 0.6 0.3 0.1 .
+Summary by Level # Ave A AB B BC C D F S U CR N P I NW NR Other
+Grades GPA
+108 A A E
+Freshmen 39 3.164 48.7 12.8 12.8 12.8 5.1 5.1 2.6 . . . . . . . . .
+Sophomore 108 3.379 49.1 19.4 18.5 5.6 3.7 0.9 1.9 . . . . . 0.9 . . .
+Junior 162 3.465 57.4 21.0 8.6 3.1 5.6 1.2 1.9 0.6 . . . . . 0.6 . .
+Senior 221 3.536 57.9 19.9 11.3 5.0 4.1 0.9 0.5 . . . . . 0.5 . . .
+Undergraduates 530 3.456 55.3 19.6 12.1 5.1 4.5 1.3 1.3 0.2 . . . . 0.4 0.2 . .
+Special 31 3.727 51.6 16.1 3.2 . 3.2 . . 19.4 . . . . . 3.2 3.2 .
+Graduate 138 3.839 60.9 8.0 3.6 1.4 . . 0.7 20.3 . . . 3.6 1.4 . . .
+Dept. Total 699 3.518 56.2 17.2 10.0 4.1 3.6 1.0 1.1 5.0 . . . 0.7 0.6 0.3 0.1 .
+February 13, 2026 Page 2 of 481
+* Please note: This report does not combine crosslisted courses
+** Please note: The Law School uses a non-standard grade scale. Some of these grades cannot be mapped to our standard A/B, BC grading scale and are therefore excluded from this
+report..

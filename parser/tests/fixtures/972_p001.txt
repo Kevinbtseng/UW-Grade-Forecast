@@ -1,0 +1,51 @@
+TERM :0972 Percentage Distribution of Grades Office of the Registrar
+Fall 1996-97 University of Wisconsin - Madison Institutional Reporting
+(Non-Cross Listed)
+ALS
+AGRICULTURAL AND APPLIED ESection # Ave A AB B BC C D F S U CR N P I NW NR Other
+108 A A E Grades GPA
+215 001 67 3.134 20.9 28.4 23.9 13.4 11.9 1.5 . . . . . . . . . .
+215 002 79 3.266 25.3 30.4 29.1 7.6 5.1 2.5 . . . . . . . . . .
+Intro to Ag Econ Course Total 146 3.205 23.3 29.5 26.7 10.3 8.2 2.1 . . . . . . . . . .
+The Real Estate Process 306 001 3 *** . . . . . . .
+Farm Management 320 001 39 3.066 10.3 28.2 35.9 10.3 12.8 . . 2.6 . . . . . . . .
+Commodity Markets 322 001 43 2.616 16.3 . 30.2 7.0 41.9 4.7 . . . . . . . . . .
+Cooperatives 323 001 38 3.421 39.5 28.9 13.2 13.2 5.3 . . . . . . . . . . .
+Environmental Economics 343 001 2 *** . . . . . . .
+399 051 1 *** . . . . . . .
+399 055 1 *** . . . . . . .
+399 071 1 *** . . . . . . .
+399 072 1 *** . . . . . . .
+Coord Intrnshp/Cooprtv Educ Course Total 4 ***
+Production Economics 420 001 10 3.150 10.0 60.0 10.0 10.0 . 10.0 . . . . . . . . . .
+Quant Mthds-Ag Econ 426 001 24 3.333 25.0 41.7 16.7 8.3 8.3 . . . . . . . . . . .
+Agricultural Policies 427 001 16 3.219 6.3 43.8 43.8 . 6.3 . . . . . . . . . . .
+Natural Resource Economics 431 001 9 3.125 22.2 22.2 22.2 . 22.2 . . . . . . . . . . 11.1
+Econ Grwth&Devlpmnt-SE Asia 473 001 5 *** . . . . . . .
+Pub Finance-Less Dev Cntry 567 001 3 *** . . . . . . .
+Grth&Cl Struc-LowIncCntries 577 001 14 3.643 42.9 42.9 14.3 . . . . . . . . . . . . .
+Applied Microeconomic Thry 635 001 5 *** . . . . . . .
+699 039 2 *** . . . . . . .
+699 051 1 *** . . . . . . .
+699 071 1 *** . . . . . . .
+Special Problems Course Total 4 ***
+Macroeconomics-Ag Developmt 731 001 7 3.571 28.6 57.1 14.3 . . . . . . . . . . . . .
+990 005 6 4.000 83.3 . . . . . . . . . . 16.7 . . . .
+990 039 1 *** . . . . . . .
+990 046 2 *** . . . . . . .
+990 059 6 4.000 66.7 . . . . . . 16.7 . . . 16.7 . . . .
+990 063 4 *** . . . . . . .
+990 064 1 *** . . . . . . .
+990 071 1 *** . . . . . . .
+990 073 3 *** . . . . . . .
+990 075 1 *** . . . . . . .
+990 079 2 *** . . . . . . .
+990 080 1 *** . . . . . . .
+Research and Thesis Course Total 28 3.801 71.4 . . 3.6 . . . 14.3 . . . 10.7 . . . .
+999 059 1 *** . . . . . . .
+999 074 1 *** . . . . . . .
+999 081 1 *** . . . . . . .
+Specl Work-Agric Economics Course Total 3 ***
+March 29, 2013 Page 1 of 373
+* Please note: This report does not combine crosslisted courses
+*** Please note: In order to protect student privacy, grade distributions for classes or class sections with fewer than five students have been redacted.

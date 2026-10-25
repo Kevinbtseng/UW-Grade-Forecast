@@ -1,0 +1,49 @@
+TERM :1262 Percentage Distribution of Grades Office of the Registrar
+Fall 2025-2026 University of Wisconsin - Madison
+(Non-Cross Listed)
+ALS
+AGRICULTURAL AND APPLIED ESection # Ave A AB B BC C D F S U CR N P I NW NR Other
+108 A A E Grades GPA
+Intro to Ag & Applied Econ 101 001 65 3.138 20.0 32.3 26.2 10.8 4.6 6.2 . . . . . . . . . .
+Environment&Global Economy 244 001 55 3.375 45.5 14.5 14.5 5.5 14.5 . . . . . . . . 3.6 1.8 .
+Career Development 267 001 22 3.750 77.3 4.5 13.6 . 4.5 . . . . . . . . . . .
+Independent Study 299 101 1 *** . . . . . . .
+306 001 4 *** . . . . . . .
+306 003 1 *** . . . . . . .
+306 007 1 *** . . . . . . .
+The Real Estate Process Course Total 6 4.000 83.3 . . . . . . 16.7 . . . . . . . .
+Agricultural Systems Mgmt 320 001 28 3.786 75.0 14.3 7.1 . 3.6 . . . . . . . . . . .
+Intro to Data Analysis 335 001 175 3.636 68.6 13.7 5.7 2.9 1.7 1.1 2.9 3.4 . . . . . . . .
+Issues in Food Systems 340 001 2 *** . . . . . . .
+Global Health: Econ & Policy 352 001 81 3.259 32.1 27.2 19.8 9.9 8.6 1.2 1.2 . . . . . . . . .
+Globalizatn, Poverty&Develpmnt 373 001 33 3.855 66.7 27.3 . . . . . . . . . . 6.1 . . .
+Special Topics 375 001 18 4.000 100.0 . . . . . . . . . . . . . . .
+399 081 1 *** . . . . . . .
+399 082 1 *** . . . . . . .
+399 101 2 *** . . . . . . .
+Coord Intrnshp/Cooprtv Educ Course Total 4 ***
+Economic Decision Analysis 421 001 24 3.396 45.8 33.3 4.2 4.2 8.3 . 4.2 . . . . . . . . .
+Food Systems & Supply Chains 422 001 24 3.521 50.0 16.7 20.8 12.5 . . . . . . . . . . . .
+Econ Probs-Developing Areas 474 001 17 3.647 47.1 35.3 17.6 . . . . . . . . . . . . .
+Applied Microeconomic Thry 635 001 11 3.700 54.5 18.2 18.2 . . . . . . . . . 9.1 . . .
+Applied Econometric Analysis I 636 001 14 3.679 42.9 50.0 7.1 . . . . . . . . . . . . .
+699 082 1 *** . . . . . . .
+699 096 2 *** . . . . . . .
+699 097 1 *** . . . . . . .
+699 101 1 *** . . . . . . .
+Special Problems Course Total 5 ***
+Seminar Quant & Applied Econ 720 001 6 3.833 83.3 . 16.7 . . . . . . . . . . . . .
+Machine Learning Ap Econ Anlys 722 001 20 3.921 90.0 . . 5.0 . . . . . . . . 5.0 . . .
+Professional Development Sem 723 001 15 3.800 73.3 20.0 . 6.7 . . . . . . . . . . . .
+Pract for Applied Economists 724 001 5 *** . . . . . . .
+Development Economics 2 731 001 5 *** . . . . . . .
+Agricultural Economics 1 746 001 8 4.000 100.0 . . . . . . . . . . . . . . .
+Envir & Resource Econ 2 762 001 9 4.000 100.0 . . . . . . . . . . . . . . .
+Special Topics 875 001 10 4.000 100.0 . . . . . . . . . . . . . . .
+Grad Prac Training/Internship 899 002 1 *** . . . . . . .
+990 057 3 *** . . . . . . .
+990 058 4 *** . . . . . . .
+February 13, 2026 Page 1 of 481
+* Please note: This report does not combine crosslisted courses
+** Please note: The Law School uses a non-standard grade scale. Some of these grades cannot be mapped to our standard A/B, BC grading scale and are therefore excluded from this
+report..
