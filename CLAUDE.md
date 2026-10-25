@@ -61,7 +61,8 @@ make test      # pytest + dbt test + frontend lint/typecheck
 - **Data-quality tests:** when a test fails, fix the parser or model. Don't loosen the test.
 - **Python:** type hints on public functions, no bare `except`. Use `logging` (not `print`) except in a script's final summary.
 - **SQL (dbt):** lowercase keywords, CTEs over subqueries, one model per file. Prefix models `stg_`, `int_`, `fct_`, `dim_`.
-- **Commits:** `type(scope): description`, imperative mood (`feat(parser): handle wrapped course names`).- **Secrets:** DB credentials in `.env` (gitignored). Keep `.env.example` current.
+- **Commits:** `type(scope): description`, imperative mood (`feat(parser): handle wrapped course names`).
+- **Secrets:** DB credentials in `.env` (gitignored). Keep `.env.example` current.
 
 ## Idempotency
 

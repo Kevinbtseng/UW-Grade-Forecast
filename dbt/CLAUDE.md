@@ -30,7 +30,7 @@ One row per section line, exactly as parsed:
 - `unique` on `(term, subject_code, course_number, section)` in staging.
 - `not_null` on keys.
 - `avg_gpa` between 0 and 4.
-- Grade percentages sum to 100 ± 1 for non-redacted rows. This currently flags rows from a known parser bug; fix the parser rather than loosening the test.
+- Grade percentages sum to 100 ± 1 for non-redacted rows, **except Law School (subject `528`)**. The report excludes Law's non-standard grades, so its percentages sum to under 100 in the source PDF. This is the only exemption; don't widen it. In `1262`, 5 non-Law sections (subjects `272`, `310`, `745`) also sum to under 100 and need a look before the test can pass.
 - `a_share` between 0 and 1.
 - Row counts per term within an expected range (catches a silently broken parse).
 - **Reconciliation:** the sum of `num_grades` per term (non-total rows) is within 1% of the report's grand total. This is the main parser-accuracy check.

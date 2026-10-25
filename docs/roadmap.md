@@ -5,7 +5,7 @@
 
 ## Phase 1: Parse
 - [ ] Write `parser/parse_grades.py` from the quirks table in `parser/CLAUDE.md`. The earlier prototype is not in this repo; its numbers in `docs/data-source.md` are targets to check against.
-- [ ] Fix the 77 percentage-sum rows in 1262 (likely wrapped/misaligned lines).
+- [ ] Explain the 5 non-Law percentage-sum rows in 1262. The other 77 are Law School (`528`), which the dbt sum test exempts.
 - [ ] Fixtures + tests for every quirk in `parser/CLAUDE.md`.
 - [ ] Run across all terms in parallel. Benchmark pdfplumber vs. PyMuPDF and record total runtime.
 - [ ] Spot-check old (972–1004), middle (~1162), COVID (1214) and new (1262) terms by hand.

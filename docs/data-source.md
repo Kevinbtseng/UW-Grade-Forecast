@@ -23,10 +23,10 @@ These numbers come from an earlier prototype parser that is not in this repo. Us
 ### Fall 2025-2026 (`1262`)
 - 481 pages → **10,445 section rows**, 175 subjects, **214,067 grades**. Took about 2 min with pdfplumber (single process).
 - **49.2% of sections are redacted**, but they hold only **9,870 grades (~4.6%)**. Dropping them for modeling loses little.
-- **77 of 4,922 graded sections** had percentages not summing to 100 ± 1 (open parser bug).
+- **77 of 4,922 graded sections** had percentages not summing to 100 ± 1. Not a parser bug: they are Law School sections, whose non-standard grades the report excludes.
 
 ### Spring 2020-2021 (`1214`)
 - Parsed with **no parser changes**: **9,675 sections**, 176 subjects, **174,843 grades**. 52.9% of sections are redacted.
-- **79 of 4,167** graded sections fail the 100 ± 1 sum check (same bug).
+- **79 of 4,167** graded sections fail the 100 ± 1 sum check (probably the same Law School cause; not re-checked with the new parser).
 - **Reconciliation:** the report's grand total is 175,500 grades, so the parser captured **99.6%** (about 650 missing).
 - **COVID signal:** mean S% per section is **5.96%**, vs 0.91% in `1262`.
